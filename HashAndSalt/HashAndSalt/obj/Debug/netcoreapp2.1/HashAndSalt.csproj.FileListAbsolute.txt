@@ -1,0 +1,11 @@
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\bin\Debug\netcoreapp2.1\HashAndSalt.deps.json
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\bin\Debug\netcoreapp2.1\HashAndSalt.runtimeconfig.json
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\bin\Debug\netcoreapp2.1\HashAndSalt.runtimeconfig.dev.json
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\bin\Debug\netcoreapp2.1\HashAndSalt.dll
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\bin\Debug\netcoreapp2.1\HashAndSalt.pdb
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\obj\Debug\netcoreapp2.1\HashAndSalt.csprojAssemblyReference.cache
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\obj\Debug\netcoreapp2.1\HashAndSalt.csproj.CoreCompileInputs.cache
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\obj\Debug\netcoreapp2.1\HashAndSalt.AssemblyInfoInputs.cache
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\obj\Debug\netcoreapp2.1\HashAndSalt.AssemblyInfo.cs
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\obj\Debug\netcoreapp2.1\HashAndSalt.dll
+C:\Users\fmicheo\source\repos\HashAndSalt\HashAndSalt\obj\Debug\netcoreapp2.1\HashAndSalt.pdb
